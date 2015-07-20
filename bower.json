@@ -1,0 +1,14 @@
+{
+  "name": "equality",
+  "version": "0.0.0",
+  "homepage": "https://github.com/willishq/equality",
+  "description": "Simple javascript plugin to create equal-sized content on your page",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

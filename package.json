@@ -1,0 +1,23 @@
+{
+  "name": "equality",
+  "version": "0.0.0",
+  "description": "Simple javascript plugin to create equal-sized content on your page",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willishq/equality.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willishq/equality/issues"
+  },
+  "homepage": "https://github.com/willishq/equality",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0"
+  }
+}
