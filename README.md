@@ -3,7 +3,11 @@ Simple javascript plugin to create equal-sized content on your page
 
 ## Installation
 
- - bower: `bower install equality`
+### Bower
+`bower install equality`
+
+### NPM
+`npm install equalityjs`
 
 ## Usage
 
