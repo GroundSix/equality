@@ -1,6 +1,10 @@
 # equality
 Simple javascript plugin to create equal-sized content on your page
 
+## Installation
+
+ - bower: `bower install equality`
+
 ## Usage
 
  - Include the minified `dist/equality.min.js` file in your project.
