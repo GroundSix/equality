@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/willishq/equality.git"
+    "url": "https://github.com/groundsix/equality.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/willishq/equality/issues"
+    "url": "https://github.com/groundsix/equality/issues"
   },
-  "homepage": "https://github.com/willishq/equality",
+  "homepage": "https://github.com/groundsix/equality",
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-rename": "^1.2.2",
