@@ -1,6 +1,6 @@
 {
   "name": "equality",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/groundsix/equality",
   "description": "Simple javascript plugin to create equal-sized content on your page",
   "license": "MIT",
